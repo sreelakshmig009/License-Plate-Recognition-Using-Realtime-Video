@@ -314,7 +314,7 @@ if __name__ == "__main__":
     # Initialize the Neural Network
     model = NeuralNetwork()
 
-    cap = cv2.VideoCapture('giphy.gif')
+    cap = cv2.VideoCapture('vid3.mp3')
     while (cap.isOpened()):
         ret, img = cap.read()
         if ret == True:
