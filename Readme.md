@@ -36,7 +36,7 @@ Install these drivers from <a href ="https://www.tensorflow.org/install/gpu">her
 * Applying image segmentation(adaptive thresholding,binarization,) to extract all the characters 
 * Build a neural network to predict the characters on the extracted license plate.
 
-#### Reference from which the blog was built
+#### Reference from which the model was built
 
 <a href="https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/">https://www.geeksforgeeks.org/detect-and-recognize-car-license-plate-from-a-video-in-real-time/</a>
 
